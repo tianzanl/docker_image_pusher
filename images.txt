@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 docker:dind
-jenkins/jenkins:2.463-jdk21
+jenkins/jenkins:2.426.2-lts
